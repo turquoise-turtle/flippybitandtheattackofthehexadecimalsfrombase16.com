@@ -1,0 +1,13 @@
+TODOS
+
+- flikkerende enemy linksboven in chrome ?!
+- sound implementation safari
+
+
+
+2-Year-Olds Convert Binary To Hexadecimals In Game Experiment
+Twee-jarigen Rekenen Binair Naar Hexadecimaal Om In Game Experiment
+
+http://www.newscientist.com/article/1337-russian-study-shows-children-can-do-binary-and-hexadecimal-maths.html
+http://www.flippybitandtheattackofthehexadecimalsfrombase16.com
+http://blog.q42.nl/...
